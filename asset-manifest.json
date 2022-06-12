@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-faq-project/static/css/main.73392e6a.css",
+    "main.js": "/react-faq-project/static/js/main.b9d8dcd4.js",
+    "index.html": "/react-faq-project/index.html",
+    "main.73392e6a.css.map": "/react-faq-project/static/css/main.73392e6a.css.map",
+    "main.b9d8dcd4.js.map": "/react-faq-project/static/js/main.b9d8dcd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73392e6a.css",
+    "static/js/main.b9d8dcd4.js"
+  ]
+}
